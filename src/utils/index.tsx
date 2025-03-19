@@ -99,6 +99,11 @@ export const getSanitizedConfig = (
           (certification) =>
             certification.year || certification.name || certification.body,
         ) || [],
+        achivements:
+        config?.achivements?.filter(
+          (achivements) =>
+            achivement.year || achivement.name || achivement.body,
+        ) || [],
       educations:
         config?.educations?.filter(
           (item) => item.institution || item.degree || item.from || item.to,

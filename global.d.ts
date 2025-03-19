@@ -230,6 +230,13 @@ interface Certification {
   link?: string;
 }
 
+interface Archivement {
+  body?: string;
+  name?: string;
+  year?: string;
+  link?: string;
+}
+
 interface Education {
   institution?: string;
   degree?: string;
@@ -393,6 +400,11 @@ interface Config {
    * Certifications list
    */
   certifications?: Array<Certification>;
+
+    /**
+   * Achivements list
+   */
+    achivements?: Array<Archivement>;
 
   /**
    * Education list

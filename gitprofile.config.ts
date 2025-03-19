@@ -104,6 +104,14 @@ const CONFIG = {
       link: 'https://drive.google.com/file/d/12ihbZlcTsywm6I5tS46zVoOVfgK8qpjC/view?usp=drive_link', // Add certification link if available.
     },
   ],
+  achivements: [
+    {
+      name: 'Smart India Hackathon',
+      body: 'First Place',
+      year: '2022',
+      link: 'https://drive.google.com/file/d/16b6yi_015jXiXrTQZQlxZJ3z9y7xwTqJ/view?usp=drive_link', // Add certification link if available.
+    },
+  ],
   educations: [
     {
       institution: 'KCG College of Technology',
