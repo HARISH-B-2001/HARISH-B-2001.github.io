@@ -37,7 +37,7 @@ const CONFIG = {
             '"Monumental Katha" utilizes Augmented Reality and 3D modeling to bring Indias monuments to life, offering tourists an interactive and educational experience, while overcoming language barriers and enhancing engagement at historical sites.',
           imageUrl:
             'https://github.com/HARISH-B-2001/HARISH-B-2001.github.io/blob/main/src/assets/logo.png?raw=true',
-          link: '', // Replace with actual project link if available.
+          link: 'https://github.com/HARISH-B-2001/HARISH-B-2001.github.io', // Replace with actual project link if available.
         }, 
       ],
     },
