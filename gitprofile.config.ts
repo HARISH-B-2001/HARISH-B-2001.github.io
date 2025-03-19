@@ -89,19 +89,27 @@ const CONFIG = {
       name: 'Core & Advanced Java',
       body: 'Besant Technologies',
       year: '2025',
-      link: '', // Add certification link if available.
+      link: 'https://drive.google.com/file/d/16b6yi_015jXiXrTQZQlxZJ3z9y7xwTqJ/view?usp=drive_link', // Add certification link if available.
     },
     {
       name: 'Full Stack Development with Python',
       body: 'Guvi',
       year: '2023',
-      link: '', // Add certification link if available.
+      link: 'https://www.guvi.in/share-certificate/6x19169vd2t45g9I9E', // Add certification link if available.
     },
     {
       name: 'AR/VR Development',
       body: '',
       year: '2022',
-      link: '', // Add certification link if available.
+      link: 'https://drive.google.com/file/d/12ihbZlcTsywm6I5tS46zVoOVfgK8qpjC/view?usp=drive_link', // Add certification link if available.
+    },
+  ],
+  Achievements: [
+    {
+      name: 'Smart India Hackathon',
+      body: 'First Prize',
+      year: '2022',
+      link: 'https://drive.google.com/file/d/1NzYBsda99DZHceoGaI37s2Hge1O40LXK/view?usp=drive_link', // Add certification link if available.
     },
   ],
   educations: [
