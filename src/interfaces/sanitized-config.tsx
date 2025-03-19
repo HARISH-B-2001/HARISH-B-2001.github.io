@@ -84,6 +84,13 @@ export interface SanitizedCertification {
   link?: string;
 }
 
+export interface Sanitizedachivement {
+  body?: string;
+  name?: string;
+  year?: string;
+  link?: string;
+}
+
 export interface SanitizedEducation {
   institution?: string;
   degree?: string;
