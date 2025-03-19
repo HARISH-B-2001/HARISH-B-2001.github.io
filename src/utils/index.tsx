@@ -101,7 +101,7 @@ export const getSanitizedConfig = (
         ) || [],
         achivements:
         config?.achivements?.filter(
-          (achivements) =>
+          (achivement) =>
             achivement.year || achivement.name || achivement.body,
         ) || [],
       educations:
