@@ -32,7 +32,7 @@ const AchivementCard = ({
   achivements,
   loading,
 }: {
-  achivements: Sanitizedachivement[];
+  achivements: SanitizedAchivement[];
   loading: boolean;
 }) => {
   const renderSkeleton = () => {
