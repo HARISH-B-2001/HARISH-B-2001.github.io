@@ -7,7 +7,7 @@ const ListItem = ({
   name,
   body,
   link,
-}: {
+}: { 
   year?: React.ReactNode;
   name?: React.ReactNode;
   body?: React.ReactNode;
