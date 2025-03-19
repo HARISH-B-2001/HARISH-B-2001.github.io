@@ -66,7 +66,7 @@ const CONFIG = {
     skype: '',
     telegram: '',
     website: '', // Personal website (leave empty if not applicable).
-    phone: '+91-9345316705',
+    phone: '',
     email: 'harishbalakrishnanpersonal@gmail.com',
   },
   resume: {
