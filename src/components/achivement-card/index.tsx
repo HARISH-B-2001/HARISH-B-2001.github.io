@@ -28,7 +28,7 @@ const ListItem = ({
   </li>
 );
 
-const achivementCard = ({
+const AchivementCard = ({
   achivements,
   loading,
 }: {
@@ -96,4 +96,4 @@ const achivementCard = ({
   );
 };
 
-export default achivementCard;
+export default AchivementCard;
