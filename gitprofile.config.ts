@@ -1,6 +1,6 @@
 const CONFIG = {
   github: {
-    username: 'HARISH-BALAKRISHNAN-2001', // Your GitHub org/user name.
+    username: 'HARISH-B-2001', // Your GitHub org/user name.
   },
   base: '/',
   projects: {
@@ -13,7 +13,7 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: true, // Forked projects will not be displayed if set to true.
-          projects: ['HARISH-BALAKRISHNAN-2001/HARISH-BALAKRISHNAN-2001'], // Exclude specific projects here if needed.
+          projects: ['HARISH-B-2001/HARISH-B-2001'], // Exclude specific projects here if needed.
         },
       },
       manual: {
@@ -28,16 +28,16 @@ const CONFIG = {
           description:
             'A machine-learning-powered Android app designed for instant recognition of medicinal plant leaves, promoting safe herbal remedies through image analysis.',
           imageUrl:
-            'https://github.com/HARISH-BALAKRISHNAN-2001/HARISH-BALAKRISHNAN-2001.github.io/blob/main/src/assets/leaf_logo.png?raw=true',
-          link: 'https://github.com/HARISH-BALAKRISHNAN-2001/Medicinal-Leaf-Classification--Android--main', // Replace with actual project link if available.
+            'https://github.com/HARISH-B-2001/HARISH-B-2001.github.io/blob/main/src/assets/leaf_logo.png?raw=true',
+          link: 'https://github.com/HARISH-B-2001/Medicinal-Leaf-Classification--Android--main', // Replace with actual project link if available.
         },
         {
           title: 'Monumental Katha: AR/VR App for Historical Recreation at Heritage Sites',
           description:
             '"Monumental Katha" utilizes Augmented Reality and 3D modeling to bring Indias monuments to life, offering tourists an interactive and educational experience, while overcoming language barriers and enhancing engagement at historical sites.',
           imageUrl:
-            'https://github.com/HARISH-BALAKRISHNAN-2001/HARISH-BALAKRISHNAN-2001.github.io/blob/main/src/assets/logo.png?raw=true',
-          link: 'https://github.com/HARISH-BALAKRISHNAN-2001', // Replace with actual project link if available.
+            'https://github.com/HARISH-B-2001/HARISH-B-2001.github.io/blob/main/src/assets/logo.png?raw=true',
+          link: 'https://github.com/HARISH-B-2001', // Replace with actual project link if available.
         },
       ],
     },
@@ -70,7 +70,7 @@ const CONFIG = {
     email: 'harishbalakrishnanpersonal@gmail.com',
   },
   resume: {
-    fileUrl: 'https://raw.githubusercontent.com/HARISH-BALAKRISHNAN-2001/HARISH-BALAKRISHNAN-2001.github.io/refs/heads/main/src/resume/Harish_Balakrishnan_Resume.pdf', // Replace with the actual file URL or leave empty to hide the button.
+    fileUrl: 'https://raw.githubusercontent.com/HARISH-B-2001/HARISH-B-2001.github.io/refs/heads/main/src/resume/Harish_Balakrishnan_Resume.pdf', // Replace with the actual file URL or leave empty to hide the button.
   },
   skills: [
     'Python',
