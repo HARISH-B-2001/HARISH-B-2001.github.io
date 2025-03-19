@@ -10,7 +10,7 @@ const CONFIG = {
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 14, // How many projects to display.
+        limit: 12, // How many projects to display.
         exclude: {
           forks: true, // Forked projects will not be displayed if set to true.
           projects: ['HARISH-B-2001/HARISH-B-2001'], // Exclude specific projects here if needed.
