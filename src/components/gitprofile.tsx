@@ -237,6 +237,12 @@ const GitProfile = ({ config }: { config: Config }) => {
                         certifications={sanitizedConfig.certifications}
                       />
                     )}
+                    {sanitizedConfig.achivements.length !== 0 && (
+                      <AchivementCard
+                        loading={loading}
+                        achivements={sanitizedConfig.achivements}
+                      />
+                    )}
                     {sanitizedConfig.educations.length !== 0 && (
                       <EducationCard
                         loading={loading}
