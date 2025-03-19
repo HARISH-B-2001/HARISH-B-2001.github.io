@@ -84,7 +84,7 @@ export interface SanitizedCertification {
   link?: string;
 }
 
-export interface Sanitizedachivement {
+export interface SanitizedAchivement {
   body?: string;
   name?: string;
   year?: string;
