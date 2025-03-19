@@ -1,5 +1,5 @@
 import React from 'react';
-import { Sanitizedachivement } from '../../interfaces/sanitized-config';
+import { SanitizedAchivement } from '../../interfaces/sanitized-config';
 import { skeleton } from '../../utils';
 
 const ListItem = ({
