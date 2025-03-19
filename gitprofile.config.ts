@@ -38,7 +38,7 @@ const CONFIG = {
           imageUrl:
             'https://github.com/HARISH-B/HARISH-B-2001.github.io/blob/main/src/assets/logo.png?raw=true',
           link: 'https://github.com/HARISH-B-2001', // Replace with actual project link if available.
-        },
+        }, 
       ],
     },
   },
