@@ -109,7 +109,7 @@ const CONFIG = {
       name: 'Smart India Hackathon',
       body: 'First Place',
       year: '2022',
-      link: 'https://drive.google.com/file/d/16b6yi_015jXiXrTQZQlxZJ3z9y7xwTqJ/view?usp=drive_link', // Add certification link if available.
+      link: 'https://drive.google.com/file/d/1NzYBsda99DZHceoGaI37s2Hge1O40LXK/view?usp=drive_link', // Add certification link if available.
     },
   ],
   educations: [
